@@ -1,5 +1,6 @@
 ### Format Shark Data 
 ### 4/11/2022
+### code and data here: https://github.com/jfroeschke/sharkFormatUT
 
 library(doBy)
 library(reshape2)
